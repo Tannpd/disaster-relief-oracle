@@ -78,7 +78,7 @@ You can test the contract using GenLayer Studio or CLI using the following scena
 
 ## 🌐 Deployment & Test Evidence
 
-*   **Contract Address:** `[YOUR_DEPLOYED_CONTRACT_ADDRESS_HERE]`
+*   **Contract Address:** `0xEd99a85A1a48e67F4588644e77dAA437a28DD2f8`
 *   **Network:** `studionet`
 
 ### Worked Example (Illustrative Example)
